@@ -1,0 +1,10 @@
+C:\Users\User\Documents\CSharp\StopwatchApp\StopwatchApp\bin\Release\StopwatchApp.exe.config
+C:\Users\User\Documents\CSharp\StopwatchApp\StopwatchApp\bin\Release\StopwatchApp.exe
+C:\Users\User\Documents\CSharp\StopwatchApp\StopwatchApp\bin\Release\StopwatchApp.pdb
+C:\Users\User\Documents\CSharp\StopwatchApp\StopwatchApp\obj\Release\StopwatchApp.StopwatchForm.resources
+C:\Users\User\Documents\CSharp\StopwatchApp\StopwatchApp\obj\Release\StopwatchApp.Properties.Resources.resources
+C:\Users\User\Documents\CSharp\StopwatchApp\StopwatchApp\obj\Release\StopwatchApp.csproj.GenerateResource.cache
+C:\Users\User\Documents\CSharp\StopwatchApp\StopwatchApp\obj\Release\StopwatchApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSharp\StopwatchApp\StopwatchApp\obj\Release\StopwatchApp.exe
+C:\Users\User\Documents\CSharp\StopwatchApp\StopwatchApp\obj\Release\StopwatchApp.pdb
+C:\Users\User\Documents\CSharp\StopwatchApp\StopwatchApp\obj\Release\StopwatchApp.csprojAssemblyReference.cache
